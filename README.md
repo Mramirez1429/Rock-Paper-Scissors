@@ -9,6 +9,12 @@ compGame = 0
 flag = True
 
 # loop while the user wants to continue playing
+
+
+
+
+
+
 while(flag):
 	print('Let''s play a Rock Paper Scissors Game')
 	
